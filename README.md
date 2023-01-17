@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gabor Kalmar aka @gaborkalmar83
 - 👀 I’m in IT since 2004 and most recently actively working with/on Azure. My primary focus is Platform Architecture focusing Networks & Security, and I'm working as a Freelance Azure Architect
-- 🌱 I’m currently learning AZ-500 & aiming for SC-100 and TOGAF in year 2023
+- 🌱 I’m currently learning Dutch, AI-900 and TOGAF in year 2023
 - 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/gaborkalmar/)
 - 💞️ I love:<br>
         my wife Heidi, 154cm pure bliss since 2010<br>
